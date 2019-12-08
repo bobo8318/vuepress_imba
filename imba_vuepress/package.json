@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "webpack": "^4.41.2"
+  },
+  "dependencies": {
+    "vuepress-theme-yilia-plus": "^1.0.0"
+  }
+}
