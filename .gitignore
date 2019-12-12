@@ -1,3 +1,4 @@
 ##ignore this file##
-/imba_blog/node_modules/
-/imba_vuepress/node_modules/
+/imba/node_modules
+/imba_vuepress/node_modules
+/UseNotes-vuepress/node_modules
