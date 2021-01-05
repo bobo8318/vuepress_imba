@@ -35,7 +35,7 @@
     "@vuepress/plugin-medium-zoom": "^1.2.0",
     "@vuepress/plugin-pwa": "^1.2.0",
     "@vuepress/theme-vue": "^1.2.0",
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "leancloud-storage": "^4.0.1",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
